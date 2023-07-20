@@ -135,7 +135,7 @@ type TaskType {
 ちなみに、この設定を使わずにchoicesをスキーマ上でEnumで表現したい場合、以下のようにEnumクラスとその生成処理を自前で書く必要がある。
 (プロジェクトによっては汎用変換処理を作ってそう)
 
-schema.py:
+### schema.py:
 ```py
 @strawberry.enum
 class PriorityEnum(strawberry.Enum):
