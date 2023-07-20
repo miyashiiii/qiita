@@ -1,14 +1,13 @@
 ---
 title: Strawberry Djangoを使ってDjangoのChoicesを自動でGraphQLのEnum化する
 tags:
-  - 'Strawberry'
-  - 'StrawberryDjango'
-  - 'Django'
-  - 'GraphQL'
-
+  - Django
+  - GraphQL
+  - strawberry
+  - StrawberryDjango
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-07-20T18:05:05+09:00'
+id: f93c4c57a51dbf8ecfd7
 organization_url_name: null
 slide: false
 ---
