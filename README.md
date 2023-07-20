@@ -8,6 +8,10 @@
 ```sh
 npx qiita new 記事のファイルのベース名
 ```
+### Qiita上での更新の同期
+```sh
+npx qiita pull
+```
 
 ### プレビュー
 ```sh
