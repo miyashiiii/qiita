@@ -6,7 +6,7 @@ tags:
   - strawberry
   - StrawberryDjango
 private: false
-updated_at: '2023-07-20T18:20:11+09:00'
+updated_at: '2023-07-20T18:32:46+09:00'
 id: f93c4c57a51dbf8ecfd7
 organization_url_name: null
 slide: false
