@@ -8,6 +8,7 @@ private: false
 updated_at: '2018-10-22T16:52:25+09:00'
 id: ab6e0bd88dabfce2ac66
 organization_url_name: null
+slide: false
 ---
 
 
